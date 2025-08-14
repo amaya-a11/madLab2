@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
             insets
         }//comment
     }
-    fun main()//rtytr
+    fun main()//uop
     {
         println("hello")
     }
